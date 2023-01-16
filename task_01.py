@@ -4,3 +4,5 @@
 import math
 def litres(time):
     return math.floor(.50 * time)
+
+# Выполнено
